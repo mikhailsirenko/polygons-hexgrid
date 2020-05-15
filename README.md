@@ -7,4 +7,4 @@ This repo consists of a simple notebook ```main.ipynb``` and a script ```create_
 ## Resulting visuals
 ![](https://github.com/mikhailsirenko/polygons-hexgrid/blob/master/choropleth-polygon.png)
 
-![](https://github.com/mikhailsirenko/polygons-hexgrid/blob/master/choropleth-hex.png)
+![](https://github.com/mikhailsirenko/polygons-hexgrid/blob/master/choropleth-hexgrid.png)
