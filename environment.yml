@@ -1,0 +1,13 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - h3-py
+  - folium
+  - shapely
+  - geopandas
+  - pandas
+  - matplotplib
+  - pip
+  - pip:
+    - pyrosm
