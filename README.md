@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mikhailsirenko/polygons-hexgrid/master?filepath=main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mikhailsirenko/polygons-hexgrid/blob/master/main.ipynb)
 # polygons-hexgrid
 Visualizing OSM POIs on polygons and hexagonal grid
 
