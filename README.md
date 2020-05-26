@@ -1,5 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mikhailsirenko/polygons-hexgrid/master?filepath=main.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/mikhailsirenko/polygons-hexgrid/blob/master/main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mikhailsirenko/polygons-hexgrid/blob/master/main.ipynb)
 
 
 
